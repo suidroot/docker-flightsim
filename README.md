@@ -1,5 +1,5 @@
 # docker-flightsim
-Docker container for Alphasoc Flightsim
+Docker container for Alphasoc Flightsim (https://github.com/alphasoc/flightsim)
 
 ## Example 
 `docker run --rm --name test_flightsim flightsim`
